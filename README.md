@@ -1,4 +1,4 @@
-# Cloud Microservice on Heroku #
+# Cloud Microservice #
 
 ## Build & Run ##
 
