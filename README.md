@@ -1,9 +1,9 @@
-# My Scalatra Web App #
+# Cloud Microservice on Heroku #
 
 ## Build & Run ##
 
 ```sh
-$ cd scalatra-circe-example
+$ cd cloud-microservice-backend
 $ sbt
 > run
 ```
@@ -15,7 +15,7 @@ If `browse` doesn't launch your browser, manually open [http://localhost:8080/](
 ## Deploy to Heroku ##
 
 ```sh
-$ cd scalatra-circe-example
+$ cd cloud-microservice-backend
 $ heroku create
 $ git push heroku master
 ```
